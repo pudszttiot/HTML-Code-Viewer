@@ -1,4 +1,4 @@
-# INSERT REPO NAME HERE
+# HTML Code Viewer
 <p align="center">
   <img width="660" height="500" src="INSERT IMAGE LINK HERE">
 </p>
