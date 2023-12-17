@@ -4,7 +4,7 @@
 
 # HTML Code Viewer
 
-APP DESCRIPTION HERE...
+This HTML Code Viewer is a Python application built with PyQt5, offering a environment for editing and viewing HTML code. Whether you're a web developer or just looking to interact with HTML content, this application provides a user-friendly interface with essential functionalities.
 
 ## Screenshots
 
