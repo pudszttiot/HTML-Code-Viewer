@@ -28,7 +28,24 @@ Provide examples and guidelines on how to use your project.
 
 ## Features
 
-List and describe the key features of your project.
+- Syntax Highlighting for HTML code.
+
+- Includes a Text Edit widget for entering and editing HTML code. The user can input, edit, and view the rendered result live.
+
+- Save Code:
+  - Allows for saving the entered HTML code to a file.
+- Load HTML:
+  - Allows for opening and viewing an HTML file for editing.
+
+- Menu Bar:
+  - Includes "File" and "Help" menus.
+  - "File" menu has an "Exit" option to close the application.
+  - "Help" menu has a "How to Use" option, displaying instructions.
+
+- Buttons:
+  - Run Code ~ Renders and displays the HTML code in the web view.
+  - Save Code ~ Saves the entered HTML code to a file.
+  - Load HTML ~ Opens and displays an HTML file for editing.
 
 ## Contributing
 
